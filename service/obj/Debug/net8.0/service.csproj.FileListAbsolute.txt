@@ -1,0 +1,15 @@
+C:\Users\Bruger\RiderProjects\FullBackendTakeOne\service\bin\Debug\net8.0\service.deps.json
+C:\Users\Bruger\RiderProjects\FullBackendTakeOne\service\bin\Debug\net8.0\service.dll
+C:\Users\Bruger\RiderProjects\FullBackendTakeOne\service\bin\Debug\net8.0\service.pdb
+C:\Users\Bruger\RiderProjects\FullBackendTakeOne\service\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Bruger\RiderProjects\FullBackendTakeOne\service\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Bruger\RiderProjects\FullBackendTakeOne\service\obj\Debug\net8.0\service.csproj.AssemblyReference.cache
+C:\Users\Bruger\RiderProjects\FullBackendTakeOne\service\obj\Debug\net8.0\service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\RiderProjects\FullBackendTakeOne\service\obj\Debug\net8.0\service.AssemblyInfoInputs.cache
+C:\Users\Bruger\RiderProjects\FullBackendTakeOne\service\obj\Debug\net8.0\service.AssemblyInfo.cs
+C:\Users\Bruger\RiderProjects\FullBackendTakeOne\service\obj\Debug\net8.0\service.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\RiderProjects\FullBackendTakeOne\service\obj\Debug\net8.0\service.csproj.CopyComplete
+C:\Users\Bruger\RiderProjects\FullBackendTakeOne\service\obj\Debug\net8.0\service.dll
+C:\Users\Bruger\RiderProjects\FullBackendTakeOne\service\obj\Debug\net8.0\refint\service.dll
+C:\Users\Bruger\RiderProjects\FullBackendTakeOne\service\obj\Debug\net8.0\service.pdb
+C:\Users\Bruger\RiderProjects\FullBackendTakeOne\service\obj\Debug\net8.0\ref\service.dll
